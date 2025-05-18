@@ -2,7 +2,7 @@
 const images = [
   'a1.jpg', // replace with your actual image paths//
   'a3.jpg',
-  'myPhotos/a4.jpg'
+  'a4.jpg'
   'a5.jpg'
 ];
 
