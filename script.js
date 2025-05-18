@@ -1,9 +1,9 @@
 // List of image URLs (host your images or use valid links)
 const images = [
-  a2.jpg, // replace with your actual image paths//
-  a3.jpg,
-  a4.jpg
-  a5.jpg
+  'a2.jpg', // replace with your actual image paths//
+  'a3.jpg',
+  'a4.jpg',
+  'a5.jpg'
 ];
 
 let currentIndex = 0;
